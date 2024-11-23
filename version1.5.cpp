@@ -2,6 +2,6 @@
 namespace std;
 
 int main() {
-    cout << "111";
+    cout << "1.5";
     return 0;
 };
