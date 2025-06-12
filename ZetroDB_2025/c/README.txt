@@ -1,1 +1,0 @@
-This is where user creation pages will be stored
