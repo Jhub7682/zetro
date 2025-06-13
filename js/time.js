@@ -5,3 +5,5 @@ showTime();
 setInterval(function () {
 	showTime();
 }, 1000);
+
+// for update ref purposes
